@@ -1,6 +1,6 @@
 # ML Practice Grounds
 
-Welcome to **ML Practice Grounds**! 🚀 This repository serves as a collection of all the Jupyter notebooks I have worked on or will work on while practicing **Machine Learning (ML)**. It includes various ML concepts, algorithms, and techniques implemented for learning and experimentation.
+Welcome to **ML Practice Grounds**! 🚀 This repository serves as a collection of all the .ipynb notebooks I have worked on or will work on while practicing **Machine Learning (ML)**. It includes various ML concepts, algorithms, and techniques implemented for learning and experimentation.
 
 ## 📌 Repository Overview
 This repository contains notebooks covering:
